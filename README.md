@@ -12,7 +12,7 @@ Features
 Installation
 To run MedLens locally, follow these steps:
 1. Clone the repository:
-git clone https://github.com/your-username/MedLens.git
+git clone https://github.com/anushamallik/MedLens.git
 cd MedLens
 
 2.Install required dependencies:
